@@ -8,3 +8,9 @@ Ce notebook contient le travail réalisé dans le cadre d'un projet de Deep Lear
 Projet_NLP : Analyse textuelle et exploratoire 
 
 Ce notebook illustre les traitements de texte nécessaires  réalisés sur un jeu de données, ainsi que des statistiques et une  classification non supervisé du dataset.
+
+Comparaison_AppSup_1 : 
+
+Comparaison_AppSup_2 : 
+
+
