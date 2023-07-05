@@ -9,4 +9,6 @@ Comparaison_Clustering_1 : Ce notebook contient la première partie d'une compar
 
 Comparaison_Clustering_2 :  Le même travail a été réalisé que dans la première partie, sauf que la représentation textuelle a été réalisé avec BERT et RoBERTa, et en plus des Dataset Classic4 et BBC, on a utilisé deux datasets personnelles non labélisés  Article 1 et Article 2
 
+Projet_Classification_automatique : L'objectif de ce projet est l'application et la comparaison des diverses méthodes de classification automatique à savoir Régression logistique, SVM, Naive Bayes, KNN, Random Forest, CART ... en utilisant deux types de datasets. Le premier dataset contient les données bancaires et personnelles de clients, ce dataset sera utilisé pour entrainer un modèle afin de déterminer si un client est bon ou mauvais par rapport à sa capacité à rembourser ou non son crédit. Le deuxième dataset est sous la forme de données relationnelles représentées avec deux types d’information, une matrice des valeurs objets/caractéristiques et un graphe des liens entre objets. A travers ce notebook nous présentons les étapes suivis pour chacun des datasets, du preprocessing jusqu'à l'entrainement et l'évaluation des divers modèles, ainsi que l'analyse des résultats obtenues
+
 
