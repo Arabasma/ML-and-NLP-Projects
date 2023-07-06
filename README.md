@@ -2,7 +2,7 @@
 Ce  repository contient les projets effectués dans le cadre de Mon master 2 " Apprentissage automatique pour la Science des Données" 
 
 ## Projet_Exploration_Shiny : 
-Dans ce projet, on a créé une application web avec Shiny et R pour l'exploration univariée et bivariée des données pour un jeu de données bien précis. il est possible de l'utiliser via ce lien : https://arabasma.shinyapps.io/ProjetR_Arab_Boulefoul/
+Dans ce projet, on a créé une application web avec Shiny et R pour l'exploration univariée et bivariée des données pour un jeu de données bien précis. il est possible de l'utiliser via ce lien : https://arabasma.shinyapps.io/ProjetR_exploration/
 
 
 ## Projet_Deep_Learning : Mise en place d'un classifieur supervisé basé sur les pseudo-labels. 
