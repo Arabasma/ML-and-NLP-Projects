@@ -19,4 +19,5 @@ L'objectif de ce projet est l'application et la comparaison des diverses méthod
 ## TP_App_renforcement : 
 Dans ce TP, j'ai éffectué l'implémentation en python de quelques algorithmes d'apprentissage par renforcement ( SARSA, Q-learning, Monte carlo)
 
-
+## TP_App_Supervise : 
+Dans ce TP,  j'ai implémenté un code permettande d'effectuer la simulation et visualisation d'une distribution gaussienne multivariée, la simulation d’un mélange de distributions gaussiennes multivariées, mais aussi découpage du jeu de données en données d'apprentissage et données de test. Dans le but d'évaluer la qualité de la classification sur notre jeu de données, on a gardé 20% des données pour la partie test.
