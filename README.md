@@ -1,6 +1,10 @@
 # ML-and-NLP-Projects
 Ce  repository contient les projets effectués dans le cadre de Mon master 2 " Apprentissage automatique pour la Science des Données" 
 
+## Projet_Exploration_Shiny : 
+Dans ce projet, on a créé une application web avec Shiny et R pour l'exploration univariée et bivariée des données pour un jeu de données bien précis. il est possible de l'utiliser via ce lien : https://arabasma.shinyapps.io/ProjetR_Arab_Boulefoul/
+
+
 ## Projet_Deep_Learning : Mise en place d'un classifieur supervisé basé sur les pseudo-labels. 
 Ce notebook contient le travail réalisé dans le cadre d'un projet de Deep Learning, qui consistait à mettre en place un réseau de neurones capable d’effectuer une prédiction des labels pour les images de MNIST avec un dataset pour l’apprentissage composé d’uniquement 100 images labelisés en utilisant la méthode d'apprentissage semi-supervisé pour les réseaux d'apprentissage profond, de la manière qui a été proposée dans l'article scientifique intitulé "Pseudo-label : The simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks".
 
