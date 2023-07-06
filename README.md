@@ -21,3 +21,9 @@ Dans ce TP, j'ai éffectué l'implémentation en python de quelques algorithmes 
 
 ## TP_App_Supervise : 
 Dans ce TP,  j'ai implémenté un code permettande d'effectuer la simulation et visualisation d'une distribution gaussienne multivariée, la simulation d’un mélange de distributions gaussiennes multivariées, mais aussi découpage du jeu de données en données d'apprentissage et données de test. Dans le but d'évaluer la qualité de la classification sur notre jeu de données, on a gardé 20% des données pour la partie test. Implémentation en R.
+
+
+## TP_Clustering&Modèles : 
+A travers ce TP on a mis en pratique les différentes méthodes de clustering sur 5 tables de grandes tailles et dimension. la grande dimentionnalité de ces jeux de données rend la visualisation difficile. Le tableau JAFFE contient 213 images de 7 différentes expressions faciales de 10 visages féminin japonnais. Le label fait référence à la personne photographiés ( de 1 à 10). Les tables MFEA, MNIST, USPS, JAFFE et OPTIDIGITS sont des jeux de données d’images représentant des chiffres écrit à la mains où chaque label indique à quel chiffre l’image représente. Chaque tableau à un nombre spécifique d'image avec un nombre de pixel fixé pour chaque dataset. On a effectué un  partionnement des observations avec Nbclust et kmeans et CAH ( single, complete, ward, average), en comparant les partitions de Nbclust et HCPC. Nous avons aussi appliqué les approches, en testant le modèle EM de deux packages : Rmixmod et Mclust.
+
+
